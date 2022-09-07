@@ -1,6 +1,6 @@
 # Tastatur und Maus
 
-## 1	KeyDown, KeyUp, KeyEventArgs
+## 1  KeyDown, KeyUp, KeyEventArgs
 
 ### 1.1	KeyDown
 
@@ -10,7 +10,7 @@ Das Ereignis KeyDown tritt ein, wenn Sie das Textfeld editieren und dabei eine T
 Es gibt auch das Ereignis KeyUp, das eintritt, wenn Sie eine Taste wieder loslassen.
 ### 1.3	KeyCode, KeyValue
 Die Eigenschaften KeyCode und KeyValue des Objekts geben den Namen und den Zahlenwert der Taste an. Die Eigenschaften Alt, Control und Shift liefern die boolesche Information, ob gleichzeitig die Tasten (Alt), (Strg) oder (Shift) betätigt wurden.
-## 2	MouseDown, MouseUp, MouseEventArgs
+## 2  MouseDown, MouseUp, MouseEventArgs
 ### 2.1 MouseDown
 Das Ereignis MouseDown tritt ein, wenn Sie eine der Maustasten innerhalb des betreffenden Steuerlements herunterdrücken.
 ### 2.2 MouseUp
