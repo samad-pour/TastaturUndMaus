@@ -17,3 +17,7 @@ Das Ereignis MouseDown tritt ein, wenn Sie eine der Maustasten innerhalb des bet
 Es gibt auch das Ereignis MouseUp, das eintritt, wenn Sie eine Maustaste wieder loslassen.
 ### 2.3	X, Y
 Die Eigenschaften X und Y des Objekts liefern die Koordinaten des Punkts innerhalb des Steuerelements, an dem die Maustaste gedrückt wurde. Wie üblich befindet sich links oben der Punkt mit den Koordinaten X=0 und Y= 0.
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/110610894/189151306-cd159bcb-ab55-4497-af78-24a81cc9bf1f.png)
